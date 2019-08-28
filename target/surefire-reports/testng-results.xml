@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="36367" started-at="2019-08-28T07:20:31Z" finished-at="2019-08-28T07:21:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="36367" started-at="2019-08-28T07:20:31Z" finished-at="2019-08-28T07:21:08Z">
+      <class name="example.NewTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:example.NewTest@4909b8da]" name="beforeClass" is-config="true" duration-ms="3154" started-at="2019-08-28T12:50:31Z" finished-at="2019-08-28T12:50:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="mouseevenst()[pri:0, instance:example.NewTest@4909b8da]" name="mouseevenst" duration-ms="20223" started-at="2019-08-28T12:50:35Z" finished-at="2019-08-28T12:50:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouseevenst -->
+        <test-method status="PASS" signature="open()[pri:0, instance:example.NewTest@4909b8da]" name="open" duration-ms="7038" started-at="2019-08-28T12:50:55Z" finished-at="2019-08-28T12:51:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="upload()[pri:0, instance:example.NewTest@4909b8da]" name="upload" duration-ms="5935" started-at="2019-08-28T12:51:02Z" finished-at="2019-08-28T12:51:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- upload -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:example.NewTest@4909b8da]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-08-28T12:51:08Z" finished-at="2019-08-28T12:51:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- example.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
